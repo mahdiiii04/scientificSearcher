@@ -1,4 +1,4 @@
-# Outil de Recherche Sémantique pour Articles Scientifiques
+# Scientific Searcher : Outil de Recherche Sémantique pour Articles Scientifiques
 
 Ce projet développe un moteur de recherche sémantique pour les articles scientifiques, permettant à un utilisateur de trouver les articles les plus pertinents en fonction d'une requête. En utilisant des techniques de **traitement automatique du langage naturel (NLP)**, des **embeddings de phrases**, et un système d'indexation rapide avec **FAISS**, l'application peut effectuer des recherches efficaces même sur de très grandes bases de données. 
 
